@@ -1,0 +1,113 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.title-store {
+    border: 1px solid black;
+    font-family: 'Domine', serif;
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: rgb(26, 26, 26);
+}
+
+.title-store a {
+    text-decoration: none;
+}
+
+.title-store h1 {
+    color: white;
+    margin: 35px;
+    margin-left: 50px;
+}
+
+.title-store h3 {
+    color: white;
+    margin: 35px;
+    margin-left: 50px;
+    position: absolute;
+    flex-wrap: wrap;
+    right: 200px;
+}
+
+.shop {
+    width: 30px;
+    position: absolute;
+    flex-wrap: wrap;
+    right: 270px;
+    bottom: 37px;
+}
+
+.title-img {
+    padding-top: 35px;
+}
+
+.book-description {
+    padding-top: 60px;
+    padding-left: 100px;
+    display: flex;
+}
+
+.book-description h1 {
+        font-size: 27px;
+        color: rgb(26, 26, 26);
+        font-weight: bold;
+        font-family: 'Hind Siliguri', sans-serif;
+}
+
+.description-book {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 100px;
+    padding-right: 200px;
+}
+
+
+.price-book{
+    font-family: 'Domine', serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.button-add {
+    align-self: center;
+    background-color: #fff;
+    background-image: none;
+    background-position: 0 90%;
+    background-repeat: repeat no-repeat;
+    background-size: 4px 3px;
+    border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
+    box-sizing: border-box;
+    color: #41403e;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23px;
+    outline: none;
+    padding: 8px;
+    text-decoration: none;
+    transition: all 235ms ease-in-out;
+    border-bottom-left-radius: 15px 255px;
+    border-bottom-right-radius: 225px 15px;
+    border-top-left-radius: 255px 15px;
+    border-top-right-radius: 15px 225px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+}
+
+.button-add:hover {
+    box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
+    transform: translate3d(0, 2px, 0);
+}
+
+.button-add:focus {
+    box-shadow: rgba(0, 0, 0, .3) 2px 2px 4px -6px;
+}

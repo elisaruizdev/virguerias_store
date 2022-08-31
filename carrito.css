@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.title-store {
+    background-color: rgb(26, 26, 26);
+    border: 1px solid black;
+    font-family: 'Domine', serif;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.title-store a {
+    text-decoration: none;
+}
+
+.title-store h1 {
+    color: white;
+    margin: 35px;
+    margin-left: 50px;
+}
+
+.title-store h3 {
+    color: white;
+    margin: 35px;
+    margin-left: 50px;
+    position: absolute;
+    flex-wrap: wrap;
+    right: 200px;
+
+}
+
+.shop {
+    width: 30px;
+    position: absolute;
+    flex-wrap: wrap;
+    right: 270px;
+    bottom: 37px;
+}

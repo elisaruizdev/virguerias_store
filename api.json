@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Aguamala",
+        "stock": 15,
+        "price": 20,
+        "src": "images/Aguamala-416x656.jpg",
+        "url": "html/aguamala.html"
+    },
+    {
+        "id": 2,
+        "title": "Baudelaire el irreductible",
+        "stock": 10,
+        "price": 15,
+        "src": "images/Baudelaire-el-irreductible-416x657.jpg",
+        "url": "html/baude.html"
+    },
+    {
+        "id": 3,
+        "title": "Beethoven",
+        "stock": 7,
+        "price": 18,
+        "src": "images/Beethoven-416x656.jpg",
+        "url": "html/beethoven.html"
+    },
+    {
+        "id": 4,
+        "title": "Correspondencia",
+        "stock": 30,
+        "price": 18,
+        "src": "images/Correspondencia-1-416x657.jpg",
+        "url": "html/correspondencia.html"
+    },
+    {
+        "id": 5,
+        "title": "Tres coronas para un rey",
+        "stock": 5,
+        "price": 18,
+        "src": "images/Tres-coronas-para-un-rey-416x657.jpg",
+        "url": ""
+    },
+    {
+        "id": 6,
+        "title": "Vidas provisionales",
+        "stock": 30,
+        "price": 18,
+        "src": "images/Vidas-provisionales-416x657.jpg",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "title": "La aurora cuando surge",
+        "stock": 3,
+        "price": 17.95,
+        "src": "images/La-aurora-cuando-surge-416x657.jpg",
+        "url": ""
+    },
+    {
+        "id": 8,
+        "title": "La ventana",
+        "stock": 6,
+        "price": 18.50,
+        "src": "images/La-ventana-416x657.jpg",
+        "url": ""
+    }
+]
